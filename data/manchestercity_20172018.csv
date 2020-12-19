@@ -1,0 +1,27 @@
+Player,Nation,Pos,Age,MP,Starts,Min,Gls,Ast,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,xG,npxG,xA,xG,xA,xG+xA,npxG,npxG+xA,Matches
+Ederson\Ederson,br BRA,GK,23,36,36,3194,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.1,0.00,0.00,0.00,0.00,0.00,Matches
+Kevin De Bruyne\Kevin-De-Bruyne,be BEL,MF,26,37,36,3073,8,16,0,0,2,0,0.23,0.47,0.70,0.23,0.70,5.7,5.7,12.3,0.17,0.36,0.53,0.17,0.53,Matches
+Nicolás Otamendi\Nicolas-Otamendi,ar ARG,DF,29,34,33,2967,4,0,0,0,9,0,0.12,0.00,0.12,0.12,0.12,2.8,2.8,0.4,0.09,0.01,0.10,0.09,0.10,Matches
+Fernandinho\Fernandinho,br BRA,MF,32,34,33,2881,5,3,0,0,7,0,0.16,0.09,0.25,0.16,0.25,2.8,2.8,2.2,0.09,0.07,0.16,0.09,0.16,Matches
+Kyle Walker\Kyle-Walker,eng ENG,DF,27,32,32,2785,0,6,0,0,3,2,0.00,0.19,0.19,0.00,0.19,0.8,0.8,4.7,0.03,0.15,0.18,0.03,0.18,Matches
+Raheem Sterling\Raheem-Sterling,eng ENG,FW,22,33,29,2587,18,11,1,1,4,2,0.63,0.38,1.01,0.59,0.97,17.2,16.2,6.4,0.60,0.22,0.82,0.56,0.79,Matches
+David Silva\David-Silva,es ESP,MF,31,29,28,2430,9,11,0,0,5,0,0.33,0.41,0.74,0.33,0.74,6.5,6.5,7.1,0.24,0.26,0.50,0.24,0.50,Matches
+Leroy Sané\Leroy-Sane,de GER,FW,21,32,27,2419,10,15,0,0,4,0,0.37,0.56,0.93,0.37,0.93,4.7,4.7,7.8,0.17,0.29,0.46,0.17,0.46,Matches
+Sergio Agüero\Sergio-Aguero,ar ARG,FW,29,25,22,1963,21,6,4,4,2,0,0.96,0.28,1.24,0.78,1.05,16.6,13.6,5.9,0.76,0.27,1.03,0.62,0.89,Matches
+Fabian Delph\Fabian-Delph,eng ENG,DF,27,22,21,1741,1,2,0,0,2,0,0.05,0.10,0.16,0.05,0.16,0.2,0.2,1.1,0.01,0.06,0.07,0.01,0.07,Matches
+Gabriel Jesus\Gabriel-Jesus,br BRA,FW,20,29,19,1668,13,3,0,2,6,0,0.70,0.16,0.86,0.70,0.86,13.1,11.6,2.2,0.71,0.12,0.82,0.62,0.74,Matches
+Vincent Kompany\Vincent-Kompany,be BEL,DF,31,17,17,1394,1,1,0,0,6,0,0.06,0.06,0.13,0.06,0.13,0.5,0.5,0.3,0.03,0.02,0.06,0.03,0.06,Matches
+John Stones\John-Stones,eng ENG,DF,23,18,16,1302,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,1.3,1.3,0.0,0.09,0.00,0.09,0.09,0.09,Matches
+Bernardo Silva\Bernardo-Silva,pt POR,FWMF,22,35,15,1533,6,4,0,0,0,0,0.35,0.23,0.59,0.35,0.59,3.8,3.2,1.6,0.23,0.10,0.32,0.19,0.29,Matches
+İlkay Gündoğan\Ilkay-Gundogan,de GER,MF,26,30,15,1517,4,1,1,1,3,0,0.24,0.06,0.30,0.18,0.24,3.6,2.9,1.8,0.22,0.11,0.33,0.17,0.28,Matches
+Danilo\Danilo,br BRA,DF,26,23,13,1349,3,2,0,0,2,0,0.20,0.13,0.33,0.20,0.33,0.9,0.9,0.2,0.06,0.01,0.07,0.06,0.07,Matches
+Aymeric Laporte\Aymeric-Laporte,fr FRA,DF,23,9,9,806,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.1,0.01,0.01,0.01,0.01,0.01,Matches
+Oleksandr Zinchenko\Oleksandr-Zinchenko,ua UKR,DF,20,8,6,532,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.1,0.1,0.4,0.01,0.06,0.07,0.01,0.07,Matches
+Eliaquim Mangala\Eliaquim-Mangala,fr FRA,DF,26,9,4,488,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.2,0.2,0.3,0.04,0.05,0.09,0.04,0.09,Matches
+Benjamin Mendy\Benjamin-Mendy,fr FRA,DF,23,7,4,363,0,1,0,0,2,0,0.00,0.25,0.25,0.00,0.25,0.2,0.2,0.5,0.05,0.12,0.18,0.05,0.18,Matches
+Claudio Bravo\Claudio-Bravo,cl CHI,GK,34,3,2,226,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+Yaya Touré\Yaya-Toure,ci CIV,MF,34,10,1,236,0,2,0,0,1,0,0.00,0.76,0.76,0.00,0.76,0.3,0.3,0.8,0.12,0.30,0.42,0.12,0.42,Matches
+Brahim Díaz\Brahim-Diaz,es ESP,FWMF,17,5,0,55,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.4,0.4,0.0,0.77,0.00,0.77,0.77,0.77,Matches
+Phil Foden\Phil-Foden,eng ENG,MF,17,5,0,49,0,1,0,0,0,0,0.00,1.84,1.84,0.00,1.84,0.0,0.0,0.3,0.00,0.64,0.64,0.00,0.64,Matches
+Lukas Nmecha\Lukas-Nmecha,de GER,FW,18,2,0,16,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00,Matches
+Tosin Adarabioyo\Tosin-Adarabioyo,eng ENG,DF,19,0,0,,,,,,,,,,,,,,,,,,,,,Matches

@@ -1,0 +1,36 @@
+Player,Nation,Pos,Age,MP,Starts,Min,Gls,Ast,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+David de Gea\David-de-Gea,es ESP,GK,25,35,35,3150,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Paul Pogba\Paul-Pogba,fr FRA,MF,23,30,29,2608,5,4,0,0,7,0,0.17,0.14,0.31,0.17,0.31,Matches
+Antonio Valencia\Antonio-Valencia,ec ECU,DF,30,28,27,2483,1,3,0,0,5,0,0.04,0.11,0.14,0.04,0.14,Matches
+Ander Herrera\Ander-Herrera,es ESP,MF,26,31,27,2464,1,5,0,0,6,2,0.04,0.18,0.22,0.04,0.22,Matches
+Zlatan Ibrahimović\Zlatan-Ibrahimovic,se SWE,FW,34,28,27,2438,17,5,2,3,7,0,0.63,0.18,0.81,0.55,0.74,Matches
+Eric Bailly\Eric-Bailly,ci CIV,DF,22,25,24,2058,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daley Blind\Daley-Blind,nl NED,DF,26,23,20,1830,1,2,0,0,2,0,0.05,0.10,0.15,0.05,0.15,Matches
+Juan Mata\Juan-Mata,es ESP,MFFW,28,25,19,1614,6,3,0,0,3,0,0.33,0.17,0.50,0.33,0.50,Matches
+Marcos Rojo\Marcos-Rojo,ar ARG,DF,26,21,18,1663,1,0,0,0,5,0,0.05,0.00,0.05,0.05,0.05,Matches
+Marouane Fellaini\Marouane-Fellaini,be BEL,MF,28,28,18,1605,1,0,0,0,9,1,0.06,0.00,0.06,0.06,0.06,Matches
+Michael Carrick\Michael-Carrick,eng ENG,MF,35,23,18,1600,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Phil Jones\Phil-Jones,eng ENG,DF,24,18,18,1584,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Anthony Martial\Anthony-Martial,fr FRA,MFFW,20,25,18,1554,4,5,0,0,2,0,0.23,0.29,0.52,0.23,0.52,Matches
+Jesse Lingard\Jesse-Lingard,eng ENG,MFFW,23,25,18,1360,1,1,0,0,3,0,0.07,0.07,0.13,0.07,0.13,Matches
+Marcus Rashford\Marcus-Rashford,eng ENG,FWMF,18,32,16,1710,5,1,0,0,3,0,0.26,0.05,0.32,0.26,0.32,Matches
+Wayne Rooney\Wayne-Rooney,eng ENG,MFFW,30,25,15,1539,5,5,1,1,8,0,0.29,0.29,0.58,0.23,0.53,Matches
+Henrikh Mkhitaryan\Henrikh-Mkhitaryan,am ARM,FWMF,27,24,15,1348,4,1,0,0,1,0,0.27,0.07,0.33,0.27,0.33,Matches
+Matteo Darmian\Matteo-Darmian,it ITA,DF,26,18,15,1333,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Chris Smalling\Chris-Smalling,eng ENG,DF,26,18,13,1217,1,0,0,0,0,0,0.07,0.00,0.07,0.07,0.07,Matches
+Luke Shaw\Luke-Shaw,eng ENG,DF,21,11,9,688,0,1,0,0,1,0,0.00,0.13,0.13,0.00,0.13,Matches
+Ashley Young\Ashley-Young,eng ENG,DFMF,31,12,8,758,0,1,0,0,2,0,0.00,0.12,0.12,0.00,0.12,Matches
+Axel Tuanzebe\Axel-Tuanzebe,eng ENG,MFDF,18,4,4,303,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sergio Romero\Sergio-Romero,ar ARG,GK,29,2,2,180,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Timothy Fosu-Mensah\Timothy-Fosu-Mensah,nl NED,DF,18,4,1,97,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Scott McTominay\Scott-McTominay,sco SCO,MF,19,2,1,97,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Joel Castro Pereira\Joel-Castro-Pereira,pt POR,GK,20,1,1,90,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Josh Harrop\Josh-Harrop,eng ENG,FW,20,1,1,90,1,0,0,0,0,0,1.00,0.00,1.00,1.00,1.00,Matches
+Demetri Mitchell\Demetri-Mitchell,eng ENG,DF,19,1,1,90,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Memphis Depay\Memphis-Depay,nl NED,FWMF,22,4,0,24,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Morgan Schneiderlin\Morgan-Schneiderlin,fr FRA,MF,26,3,0,14,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Angel Gomes\Angel-Gomes,eng ENG,MF,15,1,0,3,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Zak Dearnley\Zak-Dearnley,eng ENG,FW,17,0,0,,,,,,,,,,,,,Matches
+Kieran O'Hara\Kieran-OHara,ie IRL,GK,20,0,0,,,,,,,,,,,,,Matches
+Bastian Schweinsteiger\Bastian-Schweinsteiger,de GER,DFMF,31,0,0,,,,,,,,,,,,,Matches
+Matty Willock\Matty-Willock,eng ENG,MF,19,0,0,,,,,,,,,,,,,Matches

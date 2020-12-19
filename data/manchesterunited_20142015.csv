@@ -1,0 +1,40 @@
+Player,Nation,Pos,Age,MP,Starts,Min,Gls,Ast,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+David de Gea\David-de-Gea,es ESP,GK,23,37,37,3313,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Wayne Rooney\Wayne-Rooney,eng ENG,FWMF,28,33,33,2873,12,5,1,2,5,1,0.38,0.16,0.53,0.34,0.50,Matches
+Antonio Valencia\Antonio-Valencia,ec ECU,DFMF,28,32,29,2580,0,3,0,0,4,0,0.00,0.10,0.10,0.00,0.10,Matches
+Juan Mata\Juan-Mata,es ESP,FWMF,26,33,27,2303,9,4,1,1,2,0,0.35,0.16,0.51,0.31,0.47,Matches
+Daley Blind\Daley-Blind,nl NED,DFMF,24,25,25,2169,2,2,0,0,4,0,0.08,0.08,0.17,0.08,0.17,Matches
+Robin van Persie\Robin-van-Persie,nl NED,FW,30,27,25,2108,10,2,1,2,5,0,0.43,0.09,0.51,0.38,0.47,Matches
+Ashley Young\Ashley-Young,eng ENG,DFFW,29,26,23,2065,2,5,0,0,5,0,0.09,0.22,0.31,0.09,0.31,Matches
+Phil Jones\Phil-Jones,eng ENG,DFMF,22,22,22,1876,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Chris Smalling\Chris-Smalling,eng ENG,DF,24,25,21,1879,4,0,0,0,2,1,0.19,0.00,0.19,0.19,0.19,Matches
+Marcos Rojo\Marcos-Rojo,ar ARG,DF,24,22,20,1762,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ángel Di María\Angel-Di-Maria,ar ARG,FWMF,26,27,20,1639,3,10,0,0,1,0,0.16,0.55,0.71,0.16,0.71,Matches
+Ander Herrera\Ander-Herrera,es ESP,MF,24,26,19,1870,6,4,0,0,6,0,0.29,0.19,0.48,0.29,0.48,Matches
+Marouane Fellaini\Marouane-Fellaini,be BEL,MF,26,27,19,1831,6,0,0,0,5,1,0.29,0.00,0.29,0.29,0.29,Matches
+Michael Carrick\Michael-Carrick,eng ENG,MF,33,18,16,1457,1,2,0,0,1,0,0.06,0.12,0.19,0.06,0.19,Matches
+Luke Shaw\Luke-Shaw,eng ENG,DFMF,19,16,15,1121,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+Radamel Falcao\Radamel-Falcao,co COL,FW,28,26,14,1287,4,4,0,0,2,0,0.28,0.28,0.56,0.28,0.56,Matches
+Jonny Evans\Jonny-Evans,nir NIR,DF,26,14,12,1090,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Paddy McNair\Paddy-McNair,nir NIR,DFMF,19,16,12,1027,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Adnan Januzaj\Adnan-Januzaj,be BEL,FWMF,19,18,7,856,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tyler Blackett\Tyler-Blackett,eng ENG,DF,20,11,6,654,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Rafael\Rafael,br BRA,DFMF,24,10,6,592,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Darren Fletcher\Darren-Fletcher,sco SCO,MF,30,11,4,369,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+James Wilson\James-Wilson,eng ENG,FW,18,13,2,357,1,0,0,0,3,0,0.25,0.00,0.25,0.25,0.25,Matches
+Víctor Valdés\Victor-Valdes,es ESP,GK,32,2,1,107,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tom Cleverley\Tom-Cleverley,eng ENG,MF,24,1,1,90,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Javier Hernández\Javier-Hernandez,mx MEX,FW,26,1,1,45,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jesse Lingard\Jesse-Lingard,eng ENG,FWMF,21,1,1,23,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michael Keane\Michael-Keane,eng ENG,DF,21,1,0,47,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Danny Welbeck\Danny-Welbeck,eng ENG,FWMF,23,2,0,46,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nani\Nani,pt POR,FWMF,27,1,0,45,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Anderson\Anderson,br BRA,MF,26,1,0,21,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andreas Pereira\Andreas-Pereira,br BRA,MF,18,1,0,14,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tom Thorpe\Tom-Thorpe,eng ENG,DF,21,1,0,1,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ben Amos\Ben-Amos,eng ENG,GK,24,0,0,,,,,,,,,,,,,Matches
+Reece James\Reece-James,eng ENG,DF,20,0,0,,,,,,,,,,,,,Matches
+Shinji Kagawa\Shinji-Kagawa,jp JPN,FWMF,25,0,0,,,,,,,,,,,,,Matches
+Will Keane\Will-Keane,eng ENG,FW,21,0,0,,,,,,,,,,,,,Matches
+Anders Lindegaard\Anders-Lindegaard,dk DEN,GK,30,0,0,,,,,,,,,,,,,Matches
+Marnick Vermijl\Marnick-Vermijl,be BEL,DF,22,0,0,,,,,,,,,,,,,Matches
